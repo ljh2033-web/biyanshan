@@ -1,0 +1,18 @@
+body{
+    background-color:white;
+}
+.fonts{
+    font-family:KaiTi;
+}
+.logo{
+    height:40px;
+    width: 120px;
+}
+div{
+    width: 200px;
+    margin: 0 auto;
+}
+.video{
+    height:400px;
+    width:200px;
+}
